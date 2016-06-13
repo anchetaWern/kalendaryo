@@ -1,0 +1,25 @@
+.container {
+    width: 500px;
+    margin: 0 auto;
+}
+
+.half-input {
+    width: 200px;
+    margin-right: 10px;
+}
+
+.attendee-row {
+    margin-bottom: 10px;
+}
+
+.alert {
+    padding: 20px;
+}
+
+.alert-danger {
+    background-color: #F55;
+}
+
+.alert-success {
+    background-color: #60B152;
+}
